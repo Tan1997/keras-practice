@@ -4,7 +4,7 @@ CCL2019“小牛杯”中文幽默计算
 
 任务说明参见CCL2019官方网站：[http://www.cips-cl.org/static/CCL2019/call-evaluation.html ](http://www.cips-cl.org/static/CCL2019/call-evaluation.html )
 
-官方数据及baseline:[https://github.com/DUTIR-Emotion-Group/CCL2019-Chinese-Humor-Computation](https://github.com/DUTIR-Emotion-Group/CCL2019-Chinese-Humor-Computation)
+官方数据及baseline: [https://github.com/DUTIR-Emotion-Group/CCL2019-Chinese-Humor-Computation](https://github.com/DUTIR-Emotion-Group/CCL2019-Chinese-Humor-Computation)
 
 ### 程序架构
     |-- data
