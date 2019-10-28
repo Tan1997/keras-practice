@@ -8,7 +8,7 @@ CCL2019“小牛杯”中文幽默计算
 
 ### 程序架构
     |-- data
-    	|-- train.csv        #训练集数据
+        |-- train.csv        #训练集数据
         |-- development.csv  #测试集数据
     |-- models
         |--Machine_Learning
